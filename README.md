@@ -1,5 +1,7 @@
+# [apot1624's blog](https://apot1624.github.io)
+## [apot1624的博客](https://apot1624.github.io)
+
 ## Welcome to GitHub Pages
-### Hello, world!
 
 You can use the [editor on GitHub](https://github.com/apot1624/apot1624.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
